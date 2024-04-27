@@ -24,4 +24,4 @@ The columns in this dataset are:
 
 **Best Model Accuracy : 86.66**
 
-![Model Screenshot](https://drive.google.com/file/d/uc?id=1Vm1CDJ3WzDzTztwzh7yi05INd3tI9rQo)
+![Model Screenshot](https://drive.google.com/uc?id=1Vm1CDJ3WzDzTztwzh7yi05INd3tI9rQo)
