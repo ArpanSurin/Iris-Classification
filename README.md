@@ -1,7 +1,7 @@
 # IRIS CLASSIFICATION 
  Develop a ML Model for classifying iris flowers based on their features using Python, scikit-learn. 
 
-* This project is a part of my Internship training program at **Bharat Intern**
+* This project is a part of my virtual Internship training at **Bharat Intern**
 
 ## Dataset Information
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
