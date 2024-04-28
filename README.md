@@ -1,5 +1,5 @@
 # IRIS CLASSIFICATION 
- Develop a Machine Learning Model for classifying iris flowers based on their features using Python, scikit-learn. 
+ Develop a Machine Learning Model for classifying iris flowers based on their features using Python & scikit-learn. 
 
 * This project is a part of my virtual Internship training at **Bharat Intern**
 
