@@ -7,13 +7,15 @@
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
 
 The columns in this dataset are:
-* Id
-* SepalLengthCm
-* SepalWidthCm
-* PetalLengthCm
-* PetalWidthCm
-* Species
-* Sepal Width vs. Sepal Length
+
+| Column |  Description                       |
+| :-------- |  :-------------------------------- |
+| **ID**      |  Id of flower |
+| **SepalLengthcm**   |  Length of the sepal (in cm) |
+| **SepalWidthcm**    |  Width of the sepal (in cm) |
+| **PetalLengthcm**   |  Length of the petal (in cm) |
+| **PetalWidthcm**    |  Width of the petal (in cm) |
+
 
 [Dataset Link](https://www.kaggle.com/datasets/sachgarg/iris-classification)
 
